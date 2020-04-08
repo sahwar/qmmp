@@ -7,3 +7,7 @@ http://qmmp.ylsoftware.com/
 Qmmp Source Mod Plugin
 
 https://github.com/Greedysky/TTKMusicplayer/tree/plugins
+
+
+Qmmp Other Mod Plugin
+https://github.com/TTK-qmmp
